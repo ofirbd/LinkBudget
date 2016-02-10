@@ -1,0 +1,22 @@
+# git ignore file
+
+# ignore files
+*.pdf
+*.xls
+*.xlsx
+*.csv
+*.txt
+*.mat
+*.ddd
+*.gif
+*.properties
+*.doc
+*.docx
+
+# ignore directory
+/bin/
+/nbproject/private
+/build/
+/results/
+/dist/
+/LinkBudget/build/
