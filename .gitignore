@@ -13,8 +13,6 @@
 *.ddd
 *.gif
 *.properties
-*.doc
-*.docx
 *.exe
 
 # Eclipse core
@@ -40,5 +38,4 @@ tmp/
 /results/
 /dist/
 /tmp/
-/doc/
 /exe/results/
