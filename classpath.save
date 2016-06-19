@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Data/software/projects/java/LinkBudget/lib/jfreechart/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Data/software/projects/java/LinkBudget/lib/jfreechart/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Data/software/Java/lib/javacsv2.1/javacsv.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
