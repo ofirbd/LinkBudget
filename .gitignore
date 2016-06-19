@@ -1,10 +1,13 @@
 # git ignore file
 
 # ignore files
+*.tmp
+*.bak
+*.swp
+*~.nib
 *.pdf
 *.xls
 *.xlsx
-*.csv
 *.txt
 *.mat
 *.ddd
@@ -12,11 +15,30 @@
 *.properties
 *.doc
 *.docx
+*.exe
+
+# Eclipse core
+.project
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# Java annotation processor (APT)
+.factorypath
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# PyDev specific (Python IDE for Eclipse)
+*.pydevproject
 
 # ignore directory
+tmp/
 /bin/
 /nbproject/private
 /build/
 /results/
 /dist/
-/LinkBudget/build/
+/tmp/
+/doc/
+/exe/results/
