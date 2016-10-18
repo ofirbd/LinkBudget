@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package ofirbd.linkbudget;
+package com.mylib.rf.linkbudget;
 
 import java.text.DecimalFormat;
 
@@ -850,7 +850,7 @@ public class LinkBudgetGUI extends javax.swing.JFrame {
         jToolBar1.add(jToggleButton_rslChart);
 
         jButton_calc.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
-        jButton_calc.setIcon(new javax.swing.ImageIcon(getClass().getResource("/ofirbd/play.png"))); // NOI18N
+        jButton_calc.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mylib/icons/play.png"))); // NOI18N
         jButton_calc.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton_calcActionPerformed(evt);

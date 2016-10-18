@@ -1,4 +1,4 @@
-package ofirbd.linkbudget;
+package com.mylib.rf.linkbudget;
 
 import java.io.BufferedWriter;
 import java.io.File;

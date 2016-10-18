@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package ofirbd.linkbudget;
+package com.mylib.rf.linkbudget;
 
 import java.awt.Dimension;
 import java.io.File;

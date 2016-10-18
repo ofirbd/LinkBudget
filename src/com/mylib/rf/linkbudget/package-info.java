@@ -5,4 +5,4 @@
  * @author OfirBD
  *
  */
-package ofirbd.linkbudget;
+package com.mylib.rf.linkbudget;
